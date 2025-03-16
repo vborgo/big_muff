@@ -1,0 +1,250 @@
+(footprint "TO92"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 1.651 0)
+		(layer "F.SilkS")
+		(uuid "9d07ecdf-01fe-4e56-90c8-5791b72da63f")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "2N5088"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "1e874cef-852b-4cfa-b885-7ab21f962c75")
+		(effects
+			(font
+				(size 0.787402 0.787402)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "2N5088:TO92"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e23528ef-9454-49c3-9a3a-8acf5ad349ef")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "281336c7-eb38-44d1-b05b-cf163f78e371")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "51d1a55a-b4a1-4dab-b8ea-74b7ba7f038f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "ON Semiconductor"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2c81b5f1-2d8b-4c62-bb25-582ccb817107")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "\n                        \n                            Bipolar (BJT) Transistor NPN 30 V 50 mA 50MHz 625 mW Through Hole TO-92 (TO-226)\n                        \n"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b0471e84-3701-4bd8-91d1-8da6d76e9115")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "E-PKG AXIAL-LEADED-2 ON Semiconductor"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e1aa6796-8a56-4d99-8426-0d0e4073137c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "eb6a4558-75a4-4243-8741-77580c190c53")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/2N5088/Onsemi/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "42ec2728-0e04-49c3-8adc-fc6682f9be39")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "2N5088"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b322cf45-a045-4fcf-b98d-b5ea49e57b23")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f7060eca-96f9-4792-9cae-ec2931d4967a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/2N5088/Onsemi/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1c06c694-ccec-4537-bf12-5b405a13b175")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 1.631 -1.778)
+		(end -1.631 -1.778)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "932f5b8c-39db-44f6-95bc-3d5e23d57a2e")
+	)
+	(fp_arc
+		(start -0.9689 2.209799)
+		(mid -2.380095 0.395238)
+		(end -1.631 -1.778)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "48300769-719f-4fa4-b9a0-cc3c4b5ababc")
+	)
+	(fp_arc
+		(start 0.9692 2.2098)
+		(mid 0 2.412999)
+		(end -0.9692 2.2098)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d732c975-3cf8-4e14-817b-30cd8556c0ca")
+	)
+	(fp_arc
+		(start 1.631001 -1.778)
+		(mid 2.380096 0.395238)
+		(end 0.9689 2.2098)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "344d4dc7-fd03-4242-a35f-fa03f77aefa1")
+	)
+	(pad "1" thru_hole circle
+		(at -2.54 0)
+		(size 1.778 1.778)
+		(drill 1.016)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "3385556a-5e75-4410-b27b-e3ded5108770")
+	)
+	(pad "2" thru_hole circle
+		(at 0 0)
+		(size 1.778 1.778)
+		(drill 1.016)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "b17109fe-f5b2-4fd1-abc7-d041474b68d9")
+	)
+	(pad "3" thru_hole circle
+		(at 2.54 0)
+		(size 1.778 1.778)
+		(drill 1.016)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "aaa0aba2-a069-4572-96ce-1281b76f9289")
+	)
+	(model "/home/vitorborgo/kicad/library/transistor/2N5088/2N5088.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 180)
+		)
+	)
+)
